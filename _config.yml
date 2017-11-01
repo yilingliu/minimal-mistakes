@@ -8,6 +8,7 @@
 minimal_mistakes_skin    : "default" # "air", "contrast", "dark", "dirt", "mint", "sunrise"
 
 # Site Settings
+theme                    : minimal-mistakes-jekyll
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
@@ -251,3 +252,5 @@ defaults:
       comments: # true
       share: true
       related: true
+      
+
